@@ -1,7 +1,8 @@
+
 #infi-list {
   width: 200px;
   height: 300px;
-  overflow: auto;
+  overflow:scroll;
 
   margin: 30px;
   padding: 20px;
